@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 225, 188);
+}
+
+img {
+    border: 5px solid rgb(73, 9, 9);
+    margin-top: 50px;
+    width: 100%;
+}
+
+.box {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+
+}
+
+.header {
+    font-family: "Libre Baskerville", serif;
+    font-size: 3rem;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    text-transform: capitalize;
+}
